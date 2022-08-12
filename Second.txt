@@ -2,3 +2,4 @@ Second attempt to connect
 Trying to push another information on GitHub  
 Trying to pullinformayion from GitHub to local Git
 Now, I will push you back some words
+Trying to work, and then to commit on the new branch
